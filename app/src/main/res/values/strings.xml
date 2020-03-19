@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Squares</string>
+    <string name="by_text">by Michał Gozdera, 2019</string>
+    <string name="pic_logo_description">Squares logo</string>
+    <string name="pic_green_square">GreenSquare</string>
+    <string name="pic_blue_square">BlueSquare</string>
+    <string name="pic_yellow_square">YellowSquare</string>
+    <string name="pic_red_square">RedSquare</string>
+    <string name="pic_bad_square">BadSquare</string>
+    <string name="now_tap">Now tap:  </string>
+    <string name="game_over">Game over!</string>
+    <string name="ok">OK</string>
+    <string name="how_to_play_instruction">
+        All you have to do is tap the right square on the screen.
+        In the top right corner you can see the color of squares you have to tap at the time.
+        For each square in the correct colour you get 1 point.
+        Never tap black squares, they give you -30 points!
+        If you tap a square in any other incorrect colour, you lose!
+    </string>
+    <string name="no">No.</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string name="enter_your_name">Your name...</string>
+
+
+</resources>
